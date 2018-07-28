@@ -1,0 +1,14 @@
+{
+  "name": "coursetro",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "testdemo"
+  },
+  "author": "Kina Ken",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "github:ethereum/web3.js"
+  }
+}
